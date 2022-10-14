@@ -374,6 +374,11 @@ button.navbar-toggler.collapsed .icon-expand {
 
 /* Carousel 2  */
 
+.header-section {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
 .carousel2 .card {
     border-radius: 6px;
     transition: 0.3s ease-in;
