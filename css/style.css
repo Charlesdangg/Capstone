@@ -530,6 +530,12 @@ img.img-curve:hover {
     opacity: 0;
 }
 
+a:hover {
+    
+    color: #fff;
+    text-decoration: underline;
+}
+
 .cd-top--is-visible {
     visibility: visible;
     opacity: 0;
